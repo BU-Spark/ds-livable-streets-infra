@@ -1,4 +1,4 @@
-Tract,Year,Total population,Male,Female,Median age (years),White,Black or African American,American Indian and Alaska Native,Asian,Native Hawaiian and Other Pacific Islander,Some other race,Hispanic or Latino (of any race)
+tract,year,total_population,male,female,median_age,race_white,race_black,race_ai_alaskan,race_asian,race_hawaiian,race_other,race_hispanic
 708.0,2010,3436,1757,1679,34.3,2150,856,14,163,0,201,365
 709.0,2010,3057,1428,1629,36.0,1670,755,10,191,0,294,648
 801.0,2010,2724,1819,905,35.0,588,1492,52,81,0,421,430

@@ -38,4 +38,5 @@
 | SLM                               | Shared lane markings length (in meters)                            |
 | SLMTC                             | Shared lane markings, Traffic calmed street; both are length (in meters) |
 | SUP                               | Shared use path length (in meters)                                 |
-
+| total_built_all_lanes             | Total length of all bike lanes built for a tract in a year (in meters) |
+| cumulative_length                 | Total length of all lanes been built for a tract until the indicated corresponding year|

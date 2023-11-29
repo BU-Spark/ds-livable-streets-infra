@@ -25,9 +25,10 @@
 | renter_occupied                   | The number of people who are renting the property                  |
 | renter_occupied_pre-2000          | The number of people who are renting the property and moved in before 2000 |
 | percent_owners                    | The population percentage of house owners                          |
+| percent_owners_pre-2000           | The population percentage of owners moved in before 2000                    |
 | percent_renters                   | The population percentage of renters                               |
 | percent_renters_pre-2000          | The population percentage of renters moved in before 2000          |
-| owners_renters_ratio              | The population percentage of owners                                |
+| owners_renters_ratio              | The percentage of houseowners relative to that of renters (owners_occupied/ renter_occupied) |
 | owners_renters_pre-2000_ratio     | The percentage of pre-2000-houseowners relative to that of pre-2000-renters (owners_occupied_pre-2000 / renter_occupied_pre-2000) |
 |                                   |                                                                   |
 | BFBL                              | Buffered bike lane length (in meters)                              |
@@ -36,3 +37,5 @@
 | SBL                               | Separated bike lane length (in meters)                             |
 | SLM                               | Shared lane markings length (in meters)                            |
 | SLMTC                             | Shared lane markings, Traffic calmed street; both are length (in meters) |
+| SUP                               | Shared use path length (in meters)                                 |
+

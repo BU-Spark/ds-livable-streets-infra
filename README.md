@@ -1,10 +1,38 @@
-# Livable Streets Infrastructure & Displacement
-
-If your project has multiple teams add changes (code, deliverables, data, etc.) to your team folder.
-
-Create a new branch from dev branch, add changes to your team folder (on the new branch you just created).
-
-Open a Pull Request to your dev. Add your PM and TPM as reviewers.  ***Do not delete any team folders.***
-
-At the end of the semester during project wrap up open a final Pull Request to <code>main</code> from dev. 
-
+| Field                             | Description                                                       |
+| --------------------------------- | ----------------------------------------------------------------- |
+| tract                             | Census tract                                                      |
+| year                              | Year                                                              |
+| neighborhood                      | Corresponding neighborhood for each census tract                  |
+| total_population                  | Total population surveyed                                         |
+| male                              | The percentage of male population                                 |
+| female                            | The percentage of female population                               |
+| median_age                        | Median value of age                                               |
+| race_white                        | The population percentage of Caucasian                            |
+| race_black                        | The population percentage of African American                     |
+| race_ai_alaskan                   | The population percentage of American Indian and Native Alaskan   |
+| race_asian                        | The population percentage of Asian                                |
+| race_hawaiian                     | The population percentage of Native Hawaiian and Other Pacific Islander |
+| race_other                        | The population percentage of all other races not mentioned before |
+| race_hispanic                     | The population percentage of people whose ethnicity is Hispanic   |
+| median_value                      | Median value of properties the population is occupying            |
+| median_monthly_mort               | Median value of monthly mortgage                                   |
+| median_monthly_rent               | Median value of monthly rent                                       |
+| median_income                     | Median value of income                                             |
+| mean_income                       | Mean value of income                                               |
+| housed_population                 | Sum of the number of people occupying each property                |
+| owner_occupied                    | The number of house owners                                         |
+| owner_occupied_pre-2000           | The number of house owners who moved in before 2000                |
+| renter_occupied                   | The number of people who are renting the property                  |
+| renter_occupied_pre-2000          | The number of people who are renting the property and moved in before 2000 |
+| percent_owners                    | The population percentage of house owners                          |
+| percent_renters                   | The population percentage of renters                               |
+| percent_renters_pre-2000          | The population percentage of renters moved in before 2000          |
+| owners_renters_ratio              | The population percentage of owners                                |
+| owners_renters_pre-2000_ratio     | The percentage of pre-2000-houseowners relative to that of pre-2000-renters (owners_occupied_pre-2000 / renter_occupied_pre-2000) |
+|                                   |                                                                   |
+| BFBL                              | Buffered bike lane length (in meters)                              |
+| BL                                | Bike lane length (in meters)                                       |
+| BLSL                              | Bike lane on one side, shared lane on the opposite side length (in meters) |
+| SBL                               | Separated bike lane length (in meters)                             |
+| SLM                               | Shared lane markings length (in meters)                            |
+| SLMTC                             | Shared lane markings, Traffic calmed street; both are length (in meters) |

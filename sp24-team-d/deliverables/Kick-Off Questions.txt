@@ -1,0 +1,21 @@
+﻿1.) What is the project focus/overall goal?    
+The project focus is to find out whether or not there is a correlation between transportation projects and displacement and what might be causing this if there is one. After this, we should determine whether this correlation is causative.
+
+
+Update: Instead of focusing on transportation projects, we are now focusing on greenways and parks.
+
+
+2.) Why is this project important?     
+This project is important because it can help the city determine where to implement transportation projects while avoiding displacement. It also helps provide insight on the effect of certain infrastructure on the populations of different neighborhoods/cities
+
+
+3.) What type of data will you collect or be analyzing?     
+The data that has been collected is mainly focused on transportation. We will also be analyzing data that provides insights into displacement, such as housing, demographic, and economic data.
+
+
+4.) What are potential limitations of the project?    
+A potential limitation of the project is that we might not have enough data to draw any conclusions.
+
+
+5.)  What are your next steps?        
+Our next step is preparing our data to parse and draw hypotheses from. On the website that contains the data there are lots of data sets available so we will need to choose the proper dataset(s) to help us with our analysis.

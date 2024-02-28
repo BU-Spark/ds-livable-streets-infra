@@ -19,6 +19,7 @@ Boston Trailmap (Interactive Map of Bike Lanes): https://trailmap.mapc.org
 ## Control Group: Suffolk County
 
 ![Suffolk County Data](image.png)
+
 As a whole, only 1.8% of all residents surveyed from the Suffolk County are bicycle commuters. We will be using this data point as a baseline for the following areas observed. This could be caused by a myriad of factors:
 - Lack of inadequate cycling infrastructure in certain areas
 - Distance of commute to workplace being too short or long for cycling
@@ -26,3 +27,33 @@ As a whole, only 1.8% of all residents surveyed from the Suffolk County are bicy
 - Likewise, inconvenience of cycling encourages usage of personal vehicles
 - And the one we want to observe: **Poor connectivity of Bike Lanes in Bike Network**
 
+## Finding 1: Packard's Corner vs. Aberdeen
+
+![Packard's Corner Data](image-1.png)
+![Aberdeen Data](image-2.png)
+![Map of Packard's Corner + Aberdeen](image-3.png)
+
+*Pictured above from top to bottom: Packard's Corner data (combination of three census tracts), Aberdeen data, geographical map of Packard's Corner and Aberdeen (blue and green lines are bike lanes)*
+
+While Packard’s Corner and Aberdeen are only 1.5 miles apart, nearly 3x as many commuters cycle from Packard’s compared to Aberdeen. We suspect that this is because although both areas have decent bike lane infrastructure, Packard’s is far more connected with the city (the bike lanes go straight from Packard’s all the way to downtown via Comm Ave), while for Aberdeen, you'd have to take an awkward long detour up Cambridge St to have bike lanes throughout the route to downtown. Avoiding this detour would mean going onto a stretch of Comm Ave without bike lanes before hitting Packard's, which discourages bike usage.
+
+We believe this plays a big role in discouraging bike commute in Aberdeen despite having the infrastructure to support cyclists. In fact, a similar trend exists between Jamaica Plains (~6.9% bike commuters) and Upham’s Corner (~1.2% bike commuters) in terms of bike lane connectivity.
+
+## Finding 2: Jamaica Plains and Upham's Corner
+
+![Jamaica Plains Data](image-4.png)
+![Upham's Corner Data](image-5.png)
+![Map of Jamaica Plains + Upham's Corner](image-6.png)
+
+*Pictured above from top to bottom: Jamaica Plains data, Upham's Corner data (combination of three census tracts), geographical map of Jamaica Plains and Upham's Corner (blue and green lines are bike lanes)*
+
+Jamaica Plains and Upham's Corner have similar correlations. While Upham's Corner has a bike lane on Dorchester Ave that spans all the way to downtown, it has areas where the bike lanes disappear. Coupling on to an easy access to the Orange Line, and Upham's Corner has a lower-than-average bike commuter percentage than all of Suffolk. Meanwhile, Jamaica Plains is even further from downtown than Upham's Corner, but manages to have nearly four times the amount of bike commuters than Suffolk's average -- even with great T access (which competes against cycle commutes!). This is supported by a well-connected bike network to downtown.
+
+## Acknowledging Outside Factors
+While we feel pretty strongly about the conclusion drawn on the previous sections, we also acknowledge that outside, unrelated factors may play a part in the offset cycling rate in the two pairs of neighborhoods, such as:
+- Difference of difficulty in storing a personal vehicle between the neighborhoods
+- Difference of distance of commutes between the neighborhoods
+- Difference of income brackets of residents between the neighborhoods
+- etc.
+
+We hope to find stronger evidence to back up these correlations in the future of this project.

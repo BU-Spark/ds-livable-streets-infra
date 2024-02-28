@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.boston.gov/
+HostUrl=https://og-production-open-data-bostonma-892364687672.s3.amazonaws.com/resources/3171b187-4b3e-455d-b1df-eda0c26884aa/income-restricted-inventory-2020.csv?Content-Type=text%2Fcsv&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJIENTAPKHZMIPXQ%2F20240228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240228T045317Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=11a379d1db27cd5d652e04fcc135b5d2b3a7c7f872b2e27d340c74d308a5e646
